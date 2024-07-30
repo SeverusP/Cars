@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+
+# Description
+The ongoing project aims to promote the creation of a group of files representing assets on the blockchain distributed via IPFS and made available in a test marketplace network
