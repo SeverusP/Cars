@@ -1,0 +1,15 @@
+{
+    "name": "Cars Daly Style",
+    "description": "Cars Daly Style",
+    "image": "ipfs://QmRJueffVCNwzj6gLfxzm4Fky9muBCg2j978rxp6gtCgUG/Cars5.jpeg",
+    "attributes" : [
+        {
+            "trait-type": "Background",
+            "value": "Planets"
+        },
+        {
+            "trait-type": "Fur",
+            "value": "White"
+        }
+    ]
+}
